@@ -1,4 +1,4 @@
-# OAuth2.0_Crypto_CW
+# OAuth2.0_Cryptography_CW
 
 This repository contains code for the application which was created to demonstrate the operation of OAuth2.0.
 
